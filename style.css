@@ -45,7 +45,7 @@
   justify-content: center
 }
 
-img {
+.imgperson {
   max-width: 35%;
   max-height:20%;
   float:left;
