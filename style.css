@@ -35,6 +35,6 @@
 }
 
 .center{
-object-fit: fill;
+object-fit: contain;
   width:20%;
 }
