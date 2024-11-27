@@ -8,6 +8,7 @@
   top: 0; 
   width: 100%; 
   font-family: Chalkduster, fantasy;
+  font-size: 30px;
 }
 
 /* Links inside the navbar */
@@ -16,7 +17,8 @@
   display: block;
   color: #ffffff;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 19px;
+  padding-left: 10px;
   text-decoration: none;
   width: 20%;
 }
