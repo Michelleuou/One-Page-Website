@@ -47,8 +47,8 @@
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 100px;
+ grid-template-columns: 5fr 5fr 5fr;
+ column-gap: 90px;
 }
 
 .text {
@@ -168,7 +168,7 @@ input[type=submit]:hover {
 }
 
 .contain {
-  position: absolute;
+  position: relative;
   text-align: center;
   color: black;
   font-size: 70px;
