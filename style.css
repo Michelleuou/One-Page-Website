@@ -96,5 +96,8 @@ font-size: 20px;
 .logo{
 width: 20px;
 height: 20px;
-float: left;
+margin-left:10px;
+psotition: absolute;
+  margin-top: 20px;
+  
 }
