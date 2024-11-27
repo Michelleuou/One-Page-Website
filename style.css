@@ -65,13 +65,14 @@ table, th, td {
   border-collapse: collapse;
   margin-left:auto;
   margin-right:auto;
-
+  padding: 15px;
 }
 
 th, td {
   background-color: #adebb3;
   margin-left:auto;
   margin-right:auto;
+  padding: 15px;
 }
 
 .pets{
