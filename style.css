@@ -53,8 +53,8 @@ justify-content: center;
 }
 
 .img {
-  max-width: 40%;
-  max-height:40%;
+  width: 40%;
+  height:40%;
 }
 
 .text {
