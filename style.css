@@ -70,6 +70,23 @@ table, th, td {
   border: 1px solid white;
   border-collapse: collapse;
 }
+
 th, td {
   background-color: #adebb3;
+}
+
+.pets{
+  width: 90px;
+  height:90px;
+}
+.des{
+text-align: center;
+font-family: Georgia, serif;
+font-size: 40px;  
+}
+.volimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
 }
