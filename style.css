@@ -76,8 +76,10 @@ th, td {
 }
 
 .pets{
-  width: 90px;
-  height:90px;
+  width: 200px;
+  height:200px;
+  margin-left:auto;
+  margin-right:auto;
 }
 .des{
 text-align: center;
