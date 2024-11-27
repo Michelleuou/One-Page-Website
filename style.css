@@ -121,7 +121,7 @@ label {
 }
 
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: #f2f2f2;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -131,12 +131,12 @@ input[type=submit] {
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #ffffff;
 }
 
 .boxcon {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #adebb3;
   padding: 20px;
 }
 
