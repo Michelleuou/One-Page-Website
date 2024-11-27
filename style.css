@@ -134,7 +134,7 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-.container {
+.boxcon {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
@@ -171,7 +171,7 @@ input[type=submit]:hover {
   position: relative;
   text-align: center;
   color: black;
-  font-size: 200px;
+  font-size: 70px;
   fonr-family:Georgia, serif;
 }
 
