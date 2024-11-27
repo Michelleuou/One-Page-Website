@@ -166,3 +166,17 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+
+.contain {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 200px;
+  fonr-family:Georgia, serif;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
