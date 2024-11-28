@@ -1,4 +1,4 @@
-* {box-sizing: border-box}
+  * {box-sizing: border-box}
 
 /* Navigation bar */
 .navbar {
@@ -47,7 +47,7 @@
 .container {
  display: grid;
  align-items: center; 
- grid-template-columns: 15fr 1fr 1fr;
+ grid-template-columns: 1fr 1fr 1fr;
  column-gap: 100px;
 }
 
