@@ -169,7 +169,7 @@ input[type=submit]:hover {
 }
 
 .contain {
-  position: absolute;
+  position: relative;
   text-align: center;
   color: black;
   font-size: 70px;
@@ -177,7 +177,7 @@ input[type=submit]:hover {
 }
 
 .bottom-left {
-  position: relative;
+  position: absolute;
   bottom: 8px;
   left: 16px;
 }
