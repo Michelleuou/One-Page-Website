@@ -101,9 +101,9 @@ max-width: 900px;
 .logo{
   float: left;
   display: inline-block;
+  width: 50px;
 }
   
-}
 
 /*Volunteer form*/
 * {
