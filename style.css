@@ -48,7 +48,7 @@
  display: grid;
  align-items: center; 
  grid-template-columns: 20fr 20fr 20fr;
- column-gap: 10px;
+ column-gap: 100px;
 }
 
 .text {
