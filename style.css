@@ -47,7 +47,7 @@
 .container {
  align-items: center; 
  grid-template-columns: 1fr 1fr 1fr;
- column-gap: 90px;
+ column-gap: 100px;
 }
 
 .text {
