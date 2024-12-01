@@ -97,7 +97,7 @@ max-width: 900px;
 
 .logo{
   float: left;
-  display: inline-block;
+  display: block;
   width: 10px;
 }
   
