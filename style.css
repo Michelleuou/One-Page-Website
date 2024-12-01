@@ -96,9 +96,11 @@ max-width: 900px;
 }
 
 .logo{
-  float: left;
-  display: block;
-  width: 10px;
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
   
 
