@@ -45,9 +45,9 @@
 }
 
 .container {
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .text {
