@@ -47,9 +47,7 @@
     max-width: 25%;
     max-height:15%;
     float: left;
-    display: flex;
-  align-items: center;
-  justify-content: center;
+  
   }
 
 .container {
@@ -60,8 +58,8 @@
 
 .text {
   font-size: 20px;
-  padding-left: 20px;
-  padding-top: 50%;
+  padding-left: 40px;
+  padding-top: 20%;
   float: left;
   font-family: Georgia, serif;
 }
@@ -107,11 +105,11 @@ max-width: 900px;
 }
 
 .logo{
-  width: 400px;
-  height: 400px;
-  position: absolute;
-  top: 0;
-  left: 0;
+ width: 100px;  /* Adjust the width as needed */ 
+  height: auto;  /* Maintain aspect ratio */ 
+  position: absolute; /* Positioning the logo */ 
+  top: 0; 
+  left: 0; 
 }
   
 
