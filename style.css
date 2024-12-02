@@ -188,7 +188,7 @@ input[type=submit]:hover {
 }
 
 .bottom-left {
-  postition: fixed;
+  postition: flex;
   bottom: 8px;
   left: 16px;
 }
