@@ -9,6 +9,8 @@
   width: 100%; 
   font-family: Chalkduster, fantasy;
   font-size: 30px;
+  padding: 0;
+  margin: 0;
 }
 
 /* Links inside the navbar */
