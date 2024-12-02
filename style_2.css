@@ -4,6 +4,7 @@ body {
   text-align: center;
      }
 
+/*Volunteer form*/
 * {
   box-sizing: border-box;
 }
@@ -67,4 +68,3 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
-
