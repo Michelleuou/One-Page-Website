@@ -211,7 +211,7 @@ input[type=submit]:hover {
 
 div.b {
   position: absolute;
-  left: 0;
+  right: 100px;
   width: 100px;
   height: 120px;
 } 
