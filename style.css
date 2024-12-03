@@ -208,10 +208,10 @@ input[type=submit]:hover {
 
 div.b {
   position: relative;
-  left: 20px;
+  left: 10px;
   padding-bottom: 10px;
   float: right;
-  width: 100px;
+  width: 500px;
 } 
 
 
