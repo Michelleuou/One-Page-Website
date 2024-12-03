@@ -181,6 +181,13 @@ input[type=submit]:hover {
   }
 }
 
+.contain {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 70px;
+  font-family:Georgia, serif;
+}
 
 .bottom-left {
   postition: absolute;
