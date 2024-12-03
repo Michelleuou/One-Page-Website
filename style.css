@@ -207,10 +207,8 @@ input[type=submit]:hover {
 .button1 {border-radius: 8px;}
 
 div.b {
-  position: absolute;
-  width: 100px;
-  height: 120px;
-  padding-right: 600px;
+  position: relative;
+  left: 20px;
   padding-bottom: 10px;
 } 
 
