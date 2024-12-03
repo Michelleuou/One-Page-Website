@@ -210,7 +210,8 @@ div.b {
   position: absolute;
   width: 100px;
   height: 120px;
-  padding-right: 30px;
+  padding-right: 10px;
+  padding-bottom: 10px;
 } 
 
 
