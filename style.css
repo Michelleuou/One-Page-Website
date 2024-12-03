@@ -209,4 +209,12 @@ input[type=submit]:hover {
 }
 .button1 {border-radius: 8px;}
 
+div.b {
+  position: absolute;
+  right: 0;
+  width: 100px;
+  height: 120px;
+} 
+
+
 
