@@ -70,6 +70,6 @@ input[type=submit]:hover {
 }
 
 div.c {
- position: absolute;
+ position: relative;
   float: right;
 } 
