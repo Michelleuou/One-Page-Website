@@ -71,6 +71,7 @@ input[type=submit]:hover {
 
 div.c {
  position: relative;
-  float: right;
+  
+  float: none;
   bottom: -10px;
 } 
