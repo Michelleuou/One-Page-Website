@@ -32,7 +32,7 @@ justify-content: space-around;
 }
 .navbar ul li{
 display:inline;
-  max-width: 100px;
+  max-width: 200px;
 }
 
 .navbar a.active {
