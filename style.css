@@ -24,6 +24,15 @@
   text-decoration: none;
   width: 20%;
 }
+.navbar ul{
+list-style-type:none;
+justify-content: space-around;
+  display:flex;
+}
+.navbar ul li{
+display:inline;
+}
+
 .navbar a.active {
   background-color: #adebb3;
 }
