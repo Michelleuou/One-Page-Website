@@ -75,3 +75,7 @@ div.c {
   float: none;
   bottom: -10px;
 } 
+div.b {
+   position: relative;
+  float: right;
+} 
