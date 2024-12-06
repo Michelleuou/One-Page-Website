@@ -28,11 +28,11 @@
 .navbar ul{
 list-style-type:none;
 justify-content: space-around;
-  display:flex;
+display:inline;
 }
 .navbar ul li{
 display:inline;
-  max-width: 200px;
+max-width: 200px;
 }
 
 .navbar a.active {
