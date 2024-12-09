@@ -26,10 +26,10 @@
 .navbar ul{
 list-style-type:none;
 justify-content: space-around;
-display:inline;
+display:flex;
 }
 .navbar ul li{
-display:inline-block;
+display:inline;
 max-width: 300px;
 }
 
