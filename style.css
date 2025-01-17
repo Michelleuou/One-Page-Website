@@ -13,11 +13,13 @@
 
 /* Links inside the navbar */
 .navbar a {
+  font-size:40px;
   float: left;
   display: block;
   color: #ffffff;
   text-align: center;
-  padding: 20px 20px;
+  padding: 10px 10px;
+  margin-top: -30px;
   padding-left: 10px;
   text-decoration: none;
   width: 20%;
@@ -26,11 +28,11 @@
 .navbar ul{
 list-style-type:none;
 justify-content: space-around;
-display:flex;
+  display: block;
 }
 .navbar ul li{
 display:inline;
-max-width: 300px;
+width: 100%;
 }
 
 .navbar a.active {
@@ -205,6 +207,3 @@ div.b {
    position: relative;
   float: right;
 } 
-
-
-
