@@ -198,13 +198,14 @@ input[type=submit]:hover {
   }
 }
 
-.contain {
+.container {
   position: relative;
+  text-align: center;
   color: black;
 }
 
 .bottom-left {
-  postition: absolute;
+  position: absolute;
   bottom: 8px;
   left: 16px;
 }
