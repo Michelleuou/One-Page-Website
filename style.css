@@ -1,5 +1,9 @@
 * {box-sizing: border-box}
 
+body{
+      font-family: Copperplate, Papyrus, fantasy;
+}
+
 /* Navigation bar */
 .navbar {
   overflow: hidden;
