@@ -3,15 +3,14 @@
 body{
       font-family: Copperplate, Papyrus, fantasy;
 }
-
 /* Navigation bar */
 .navbar {
   overflow: hidden;
   background-color: #adebb3;
-   margin-left: -10px;
+  margin-left: -10px;
   position: fixed; 
-  top: 0; 
-  width: 100%; 
+  top: 0;
+ width: 100%; 
   font-family: Chalkduster, fantasy;
   font-size: 30px;
 }
@@ -60,11 +59,13 @@ width: 100%;
   margin-left: auto;
   margin-right: auto;
   width: 90%;
+  
 }
 .petimg {
     max-width: 30%;
     max-height:15%;
     float: left;
+  
 
   
   }
@@ -73,12 +74,13 @@ width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  
+  
 }
 
 .text {
   font-size: 30px;
   padding-left: 20px;
-  
   float: left;
   font-family: Georgia, serif;
   max-width: 900px;
@@ -86,7 +88,6 @@ width: 100%;
 
 h1{
    text-align: center;
-   font-size: 40px;
 }
 
 table, th, td {
@@ -169,7 +170,7 @@ input[type=submit]:hover {
 .boxcon {
   border-radius: 5px;
   background-color: #adebb3;
-  padding: 40px;
+  padding: 60px;
 }
 
 .col-25 {
@@ -200,10 +201,10 @@ input[type=submit]:hover {
 }
 
 .container {
-  position: fixed;
+  position: relative;
   text-align: center;
   color: black;
-   font-size: 40px;
+  font-size: 40px;
 }
 
 .bottom-left {
@@ -218,5 +219,6 @@ div.b {
 } 
 
 button{
-font-size: 20px;
+
+  font-size: 20px;
 }
