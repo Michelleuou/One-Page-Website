@@ -163,7 +163,7 @@ input[type=submit]:hover {
 .boxcon {
   border-radius: 5px;
   background-color: #adebb3;
-  padding: 30px;
+  padding: 40px;
 }
 
 .col-25 {
@@ -210,7 +210,7 @@ div.b {
 } 
 
 button{
-font-size: 30px;
+font-size: 20px;
   position: fixed;
 
 }
