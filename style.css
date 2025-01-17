@@ -202,12 +202,13 @@ input[type=submit]:hover {
   position: relative;
   text-align: center;
   color: black;
+   font-size: 40px;
 }
 
 .bottom-left {
   position: absolute;
-  bottom: 8px;
-  left: 16px;
+  bottom: -50px;
+  left: -30px;
 }
 
 div.b {
