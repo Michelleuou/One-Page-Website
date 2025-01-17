@@ -205,7 +205,7 @@ input[type=submit]:hover {
 }
 
 div.b {
-   position: fixed;
+   position: static;
   float: right;
 } 
 
