@@ -205,6 +205,12 @@ input[type=submit]:hover {
 }
 
 div.b {
-   position: relative;
+   position: fixed;
   float: right;
 } 
+
+button{
+font-size: 30px;
+  position: fixed;
+
+}
